@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube React Button",
+  "version": "1.0",
+  "description": "Injects a custom React button next to YouTube subscribe.",
+  "action": {
+    "default_popup": "index.html"
+  }
+}

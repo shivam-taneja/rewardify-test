@@ -47,3 +47,4 @@ git clone <repository-url>
 4. At the end of each cycle, the pool is distributed:  
    - 90% to creator  
    - 10% split to top viewers based on watch time
+ - update
